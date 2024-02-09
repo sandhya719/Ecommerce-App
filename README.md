@@ -1,8 +1,7 @@
-# React + Vite
+# Simple Ecommerce App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple ecommerce website.
 
-Currently, two official plugins are available:
+In this the products are displayed from some fake Api.If we want to add products to cart we will click on add to cart button and if we want to delete the product from the cart then that corresponding button is there on the product.If we want to edit or delete the product data from our page the icons are working for that functionality and if want to add any product to that website also provided the functionality on the navbar section.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Also show the cart count on navbar when we add any product to the cart 
